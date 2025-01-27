@@ -1,7 +1,3 @@
-Here's a README template for your web scraping project:
-
----
-
 # Olympic Medals Web Scraping Project
 
 This project is a web scraping tool designed to collect and analyze data on the number of Olympic medals won by each country from Wikipedia. Using Python, the `requests` and `BeautifulSoup` (`bs4`) libraries scrape the data, and `pandas` is used to clean and analyze it.
